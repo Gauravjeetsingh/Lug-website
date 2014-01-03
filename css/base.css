@@ -1,0 +1,30 @@
+
+/*by Dishank... */
+
+/* For Current event section */
+.current-event{
+
+float:right;
+width:30%;
+height:35%;
+margin-right:17%;
+z-index:1;
+
+}
+
+
+.image-event{
+
+margin-top:-60px;
+z-index:-1;
+position:absolute;
+
+}
+
+.event-heading{
+
+margin-left:25px;
+
+}
+
+/* till here - by Dishank */
