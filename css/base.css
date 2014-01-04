@@ -1,4 +1,3 @@
-
 /*by Dishank... */
 
 /* For Current event section */
@@ -28,3 +27,57 @@ margin-left:25px;
 }
 
 /* till here - by Dishank */
+/*by Amitt... */
+
+/* For Timeline section */
+
+.breadcrumbs ul {
+list-style-type:none;
+}
+
+.breadcrumbs ul li {
+display:inline;
+}
+
+.breadcrumbs img{
+width:20%;
+}
+
+.breadcrumbs{
+overflow:hidden;
+width:80%;
+padding-left:15%;
+margin:auto;
+}
+
+.scroller{
+width:70%;
+height:5px;
+background-color:#e3e3e3;
+margin:auto;
+}
+
+.date{
+height:20px;
+background-color:#e3e3e3;
+width:5px;
+position:absolute;
+}
+
+.id-date1{
+left:30%;
+}
+
+.id-date2{
+left:45%;
+}
+
+.id-date3{
+left:60%;
+}
+
+.id-date4{
+left:75%;
+}
+/* till here - by Amitt */
+
