@@ -1,17 +1,16 @@
 /*by Dishank... */
-
 /* For Current event section */
+
 .current-event{
 
 float:right;
 width:30%;
 height:35%;
-margin-right:17%;
+margin-right:20%;
+margin-top:2%;
 z-index:1;
-border-style:solid; /*remove it later*/
 
 }
-
 
 .image-event{
 
@@ -26,101 +25,130 @@ position:absolute;
 margin-left:25px;
 
 }
-
 /* till here - by Dishank */
-/*by Amitt... */
 
+
+/*by Amitt... */
 /* For Timeline section */
 
 .breadcrumbs ul {
+
 list-style-type:none;
+
 }
 
 .breadcrumbs ul li {
+
 display:inline;
+
 }
 
 .breadcrumbs img{
+
 width:20%;
+
 }
 
 .breadcrumbs{
+
 overflow:hidden;
 width:80%;
 padding-left:15%;
 margin:auto;
+
 }
 
 .scroller{
+
 width:70%;
 height:5px;
 background-color:#e3e3e3;
 margin:auto;
+
 }
 
 .date{
+
 height:20px;
 background-color:#e3e3e3;
 width:5px;
 position:absolute;
+
 }
 
 .id-date1{
+
 left:30%;
+
 }
 
 .id-date2{
+
 left:45%;
+
 }
 
 .id-date3{
+
 left:60%;
+
 }
 
 .id-date4{
+
 left:75%;
+
 }
 /* till here - by Amitt */
-/*by Aashita... */
 
+
+/*by Aashita... */
 /* For Header section */
 @import url(http://fonts.googleapis.com/css?family=Lato);
- .navigator { 
-  width:100%;
-  height:75px;
-  margin:0;
-  padding:5px; }
-  header h1 { 
-                width:300px;
-              text-align:left;
-               float:left;
+.navigator { 
+width:100%;
+height:75px;
+margin:0;
+padding:-10px;
+}
 
-               }
-    header
-   {font-family:"lora",serif;
-    color:#ffffff;
-     background-color:#1abc9c;
-     }
-  
- 
-  nav ul {list-type:none;
-  width:300px;
-  float:right; 
-     }
-nav ul li { display:inline;
+header
+{
+
+margin-top:-20px;
+font-family:"lora",serif;
+color:#ffffff;
+background-color:#1abc9c;
+
+}
+
+nav ul {
+
+list-type:none;
+width:300px;
+float:right; 
+
+}
+
+nav ul li {
+
+display:inline;
 text-decoration:none;
 list-type:none;
 padding:10px;
- float:right;
- 
+float:right;
 
 }
+
 nav ul li a { 
+
 color:#ffffff;
 background-color:#1abc9c;
 text-decoration:none;
 list-type:none;
+
 }
 /* till here - by Aashita */
+
 
 /* Everyone great work till here!!, but we have a task to finish so keep working on it */
